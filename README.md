@@ -1,44 +1,56 @@
+# Olá! 👋 Eu sou Gabriel Viell Castilho
 
-## **Olá, pessoal!**
+Tenho **19 anos** e estudo **Análise e Desenvolvimento de Sistemas na FATEC SJC**.  
+Meu objetivo é me tornar **Desenvolvedor Back-End** e criar sistemas eficientes e bem estruturados.
 
-Eu sou **Gabriel Viell Castilho**, tenho **18 anos** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na FATEC SJC** e planejo virar desenvolvedor **Back-End**.
+Meus hobbies incluem **programar**, **assistir animes** e **jogar jogos digitais**.
 
-Meus hobbies são programar, assistir animes e jogar jogos digitais.
+---
 
-Possuo um repositório desenvolvido no grupo **Bug Busters**, chamado [**scrum-academy**](https://github.com/GabrielViellCastilho/scrum-academy), no qual construímos um site que ensina a **metodologia ágil Scrum**.
+## 🔹 Projetos
 
-### 🎯 **Objetivo: Desenvolvedor Back-End**
-<div align="center">
-<br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielViellCastilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 
-<br>
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielViellCastilho&layout=compact&langs_count=7&theme=tokyonight"/>
+### Alfalog
+Sistema de tratamento e visualização de dados de comércio exterior (CSV) usando **Python, Flask, MySQL e React + TypeScript**.  
+[Repositório](https://github.com/GabrielViellCastilho/alfalog)
 
-<br>
-<a href ="https://github.com/GabrielViellCastilho/scrum-academy">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielViellCastilho&repo=scrum-academy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
- <a>
- <br>
+### BarberQuest
+Sistema de agendamento de barbearia com **Go e PostgreSQL**.  
+ [Repositório](https://github.com/GabrielViellCastilho/BarberQuest)
+  
+---
 
-</div>
+## Tecnologias
 
-## **Contatos**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-viell-castilho-220438317/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielViellCastilho)
+**Linguagens:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-## **Tecnologia Estudada Atualmente**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**Frameworks / Bibliotecas:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Ollama](https://img.shields.io/badge/Ollama-FF6F61?style=for-the-badge&logo=none&logoColor=white)  
 
-## **Tecnologias**
-<div align="center">
+**Banco de Dados:**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| Categoria | Tecnologias|
-|------------|------------|
-| Linguagens   | ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   |
-| Frameworks     | ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)|
-| Banco de Dados |![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
-|Ferramentas| ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+---
 
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-viell-castilho-220438317/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielViellCastilho)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielviell@hotmail.com)
