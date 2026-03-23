@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Gabriel Viell Castilho
 
-Tenho **19 anos** e estudo **Análise e Desenvolvimento de Sistemas na FATEC SJC**.  
+Tenho **20 anos** e estudo **Análise e Desenvolvimento de Sistemas na FATEC SJC**.  
 Meu objetivo é me tornar **Desenvolvedor Back-End** e criar sistemas eficientes e bem estruturados.
 
 Meus hobbies incluem **programar**, **assistir animes** e **jogar jogos digitais**.
