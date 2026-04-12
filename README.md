@@ -51,6 +51,6 @@ Sistema de agendamento de barbearia com **Go e PostgreSQL**.
 
 ## 📫 Contatos
 
-- LinkedIn: [Gabriel Viell Castilho](https://www.linkedin.com/in/gabriel-viell-castilho-220438317/)  
+- LinkedIn: [Gabriel Viell Castilho](https://www.linkedin.com/in/gabriel-viell-castilho/)  
 - GitHub: [GabrielViellCastilho](https://github.com/GabrielViellCastilho)  
 - E-mail: gabrielviell@hotmail.com
